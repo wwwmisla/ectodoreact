@@ -1,0 +1,644 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "titulo": "Prova Final de Cálculo",
+      "descricao": "Revisar todo o conteúdo de limites e derivadas. Fazer os exercícios da lista complementar.",
+      "disciplina": "Cálculo Diferencial E Integral I",
+      "categoria": "Prova",
+      "prioridade": "urgente",
+      "dataEntrega": "2025-07-22",
+      "completa": false
+    },
+    {
+      "id": 2,
+      "titulo": "Entregar TDE de Ponteiros",
+      "descricao": "Implementar a lista de exercícios sobre alocação dinâmica e ponteiros em C.",
+      "disciplina": "Linguagem De Programação",
+      "categoria": "Trabalho",
+      "prioridade": "alta",
+      "dataEntrega": "2025-07-18",
+      "completa": true
+    },
+    {
+      "id": 3,
+      "titulo": "Resumo Capítulo 5 - Mecânica",
+      "descricao": "Fazer um resumo detalhado sobre as Leis de Newton e suas aplicações.",
+      "disciplina": "Fundamentos Da Mecânica",
+      "categoria": "Estudo",
+      "prioridade": "media",
+      "dataEntrega": "2025-07-09",
+      "completa": true
+    },
+    {
+      "id": 4,
+      "titulo": "Primeira Lista de Algoritmos",
+      "descricao": "Resolver os exercícios sobre estruturas de repetição e condicionais.",
+      "disciplina": "Lógica De Programação",
+      "categoria": "Estudo",
+      "prioridade": "baixa",
+      "dataEntrega": "2025-05-20",
+      "completa": true
+    },
+    {
+      "id": 5,
+      "titulo": "Deploy do Protótipo do Site",
+      "descricao": "Publicar a versão inicial do projeto da disciplina na Vercel ou Netlify.",
+      "disciplina": "Desenvolvimento Web Frontend",
+      "categoria": "Projeto",
+      "prioridade": "urgente",
+      "dataEntrega": "2025-08-10",
+      "completa": true
+    },
+    {
+      "id": 6,
+      "titulo": "Relatório de Lab. de Química",
+      "descricao": "Finalizar e formatar o relatório sobre a prática de titulação ácido-base.",
+      "disciplina": "Química Geral Experimental",
+      "categoria": "Relatório",
+      "prioridade": "alta",
+      "dataEntrega": "2025-07-15",
+      "completa": true
+    },
+    {
+      "id": 7,
+      "titulo": "Apresentação de CTS",
+      "descricao": "Montar os slides sobre o impacto da Internet das Coisas na sociedade.",
+      "disciplina": "Ciência, Tecnologia E Sociedade I",
+      "categoria": "Apresentação",
+      "prioridade": "media",
+      "dataEntrega": "2025-07-28",
+      "completa": true
+    },
+    {
+      "id": 8,
+      "titulo": "Refatorar Componentes React",
+      "descricao": "Aplicar os conceitos de hooks customizados no projeto final.",
+      "disciplina": "Desenvolvimento Web Frontend",
+      "categoria": "Trabalho",
+      "prioridade": "alta",
+      "dataEntrega": "2025-07-25",
+      "completa": true
+    },
+    {
+      "id": 9,
+      "titulo": "Estudar para Prova de Álgebra",
+      "descricao": "Focar nos tópicos de Transformações Lineares e Autovetores.",
+      "disciplina": "Álgebra Linear",
+      "categoria": "Estudo",
+      "prioridade": "alta",
+      "dataEntrega": "2025-07-14",
+      "completa": true
+    },
+    {
+      "id": 10,
+      "titulo": "Resolver Lista de Derivadas",
+      "descricao": "Completar a segunda lista de exercícios de derivadas.",
+      "disciplina": "Cálculo Diferencial E Integral I",
+      "categoria": "Estudo",
+      "prioridade": "media",
+      "dataEntrega": "2025-07-17",
+      "completa": true
+    },
+    {
+      "id": 11,
+      "titulo": "Trabalho de Modelagem Física",
+      "descricao": "Criar o modelo computacional do sistema massa-mola.",
+      "disciplina": "Modelagem Do Mundo Físico I",
+      "categoria": "Trabalho",
+      "prioridade": "alta",
+      "dataEntrega": "2025-08-05",
+      "completa": true
+    },
+    {
+      "id": 12,
+      "titulo": "Projeto de Estrutura de Dados",
+      "descricao": "Implementar uma árvore binária de busca.",
+      "disciplina": "Lógica De Programação",
+      "categoria": "Projeto",
+      "prioridade": "urgente",
+      "dataEntrega": "2025-07-11",
+      "completa": true
+    },
+    {
+      "id": 13,
+      "titulo": "Fichamento de Texto",
+      "descricao": "Fazer o fichamento do capítulo 2 de 'A Estrutura das Revoluções Científicas'.",
+      "disciplina": "Metodologia Científica, Tecnológica E Empreendedora",
+      "categoria": "Trabalho",
+      "prioridade": "baixa",
+      "dataEntrega": "2025-06-10",
+      "completa": true
+    },
+    {
+      "id": 14,
+      "titulo": "Leitura de Artigo em Inglês",
+      "descricao": "Ler o artigo sobre 'Machine Learning' para a próxima aula.",
+      "disciplina": "Práticas De Leitura Em Inglês",
+      "categoria": "Estudo",
+      "prioridade": "baixa",
+      "dataEntrega": "2025-07-23",
+      "completa": true
+    },
+    {
+      "id": 15,
+      "titulo": "Configurar Ambiente de Dev",
+      "descricao": "Instalar Docker e configurar o ambiente para a disciplina de Ambiente e Dev.",
+      "disciplina": "Ambiente E Desenvolvimento",
+      "categoria": "Trabalho",
+      "prioridade": "media",
+      "dataEntrega": "2025-07-21",
+      "completa": true
+    },
+    {
+      "id": 16,
+      "titulo": "Lista de Exercícios de Mecânica",
+      "descricao": "Resolver os problemas sobre momento linear e colisões.",
+      "disciplina": "Fundamentos Da Mecânica",
+      "categoria": "Estudo",
+      "prioridade": "alta",
+      "dataEntrega": "2025-07-29",
+      "completa": true
+    },
+    {
+      "id": 17,
+      "titulo": "Revisão de Recursividade",
+      "descricao": "Refazer os exemplos de algoritmos recursivos da aula.",
+      "disciplina": "Lógica De Programação",
+      "categoria": "Estudo",
+      "prioridade": "media",
+      "dataEntrega": "2025-07-13",
+      "completa": true
+    },
+    {
+      "id": 18,
+      "titulo": "Análise de Estudo de Caso",
+      "descricao": "Analisar o estudo de caso da empresa X para a disciplina de Gestão.",
+      "disciplina": "Gestão E Economia Da Ciência, Tecnologia E Inovação",
+      "categoria": "Trabalho",
+      "prioridade": "media",
+      "dataEntrega": "2025-08-04",
+      "completa": true
+    },
+    {
+      "id": 19,
+      "titulo": "Entregar Wireframes do App",
+      "descricao": "Desenhar os wireframes de baixa fidelidade no Figma.",
+      "disciplina": "Desenvolvimento Web Frontend",
+      "categoria": "Projeto",
+      "prioridade": "alta",
+      "dataEntrega": "2025-07-31",
+      "completa": true
+    },
+    {
+      "id": 20,
+      "titulo": "Prova de Lógica de Prog.",
+      "descricao": "Prova sobre laços, vetores e matrizes.",
+      "disciplina": "Lógica De Programação",
+      "categoria": "Prova",
+      "prioridade": "urgente",
+      "dataEntrega": "2025-07-09",
+      "completa": true
+    },
+    {
+      "id": 21,
+      "titulo": "Lista de Exercícios de Limites",
+      "descricao": "Completar a primeira lista de exercícios do semestre.",
+      "disciplina": "Cálculo Diferencial E Integral I",
+      "categoria": "Estudo",
+      "prioridade": "media",
+      "dataEntrega": "2025-06-30",
+      "completa": true
+    },
+    {
+      "id": 22,
+      "titulo": "Revisar Conteúdo de Estática",
+      "descricao": "Fazer os exercícios de revisão do livro sobre treliças.",
+      "disciplina": "Introdução À Mecânica Para Engenharias: Estática",
+      "categoria": "Estudo",
+      "prioridade": "baixa",
+      "dataEntrega": "2025-07-10",
+      "completa": true
+    },
+    {
+      "id": 23,
+      "titulo": "Apresentação de Modelagem",
+      "descricao": "Preparar e ensaiar a apresentação do projeto de modelagem.",
+      "disciplina": "Modelagem Do Mundo Físico II",
+      "categoria": "Apresentação",
+      "prioridade": "alta",
+      "dataEntrega": "2025-08-22",
+      "completa": true
+    },
+    {
+      "id": 24,
+      "titulo": "Prova de Química Geral",
+      "descricao": "Revisar tabela periódica e ligações químicas.",
+      "disciplina": "Química Geral",
+      "categoria": "Prova",
+      "prioridade": "urgente",
+      "dataEntrega": "2025-06-15",
+      "completa": true
+    },
+    {
+      "id": 25,
+      "titulo": "Exercícios de Probabilidade",
+      "descricao": "Resolver a lista sobre distribuições contínuas.",
+      "disciplina": "Probabilidade E Estatística",
+      "categoria": "Estudo",
+      "prioridade": "media",
+      "dataEntrega": "2025-08-25",
+      "completa": true
+    },
+    {
+      "id": 26,
+      "titulo": "Revisão para Prova Final de Cálculo",
+      "descricao": "Fazer simulado com provas antigas.",
+      "disciplina": "Cálculo Diferencial E Integral I",
+      "categoria": "Estudo",
+      "prioridade": "urgente",
+      "dataEntrega": "2025-07-20",
+      "completa": true
+    },
+    {
+      "id": 27,
+      "titulo": "Criar componentes da UI",
+      "descricao": "Desenvolver os componentes de Card e Modal em React.",
+      "disciplina": "Desenvolvimento Web Frontend",
+      "categoria": "Trabalho",
+      "prioridade": "alta",
+      "dataEntrega": "2025-07-16",
+      "completa": true
+    },
+    {
+      "id": 28,
+      "titulo": "Lista de Exercícios de Integrais II",
+      "descricao": "Resolver exercícios sobre integrais de superfície.",
+      "disciplina": "Cálculo Diferencial E Integral II",
+      "categoria": "Estudo",
+      "prioridade": "media",
+      "dataEntrega": "2025-08-08",
+      "completa": true
+    },
+    {
+      "id": 29,
+      "titulo": "Relatório de Estática",
+      "descricao": "Escrever a introdução e metodologia do relatório.",
+      "disciplina": "Introdução À Mecânica Para Engenharias: Estática",
+      "categoria": "Relatório",
+      "prioridade": "baixa",
+      "dataEntrega": "2025-07-12",
+      "completa": true
+    },
+    {
+      "id": 30,
+      "titulo": "Seminário sobre Redes",
+      "descricao": "Preparar os slides para o seminário da próxima semana.",
+      "disciplina": "Práticas De Leitura Em Inglês",
+      "categoria": "Apresentação",
+      "prioridade": "alta",
+      "dataEntrega": "2025-07-24",
+      "completa": true
+    },
+    {
+      "id": 31,
+      "titulo": "Implementar API REST",
+      "descricao": "Criar os endpoints básicos para o projeto de LP.",
+      "disciplina": "Linguagem De Programação",
+      "categoria": "Projeto",
+      "prioridade": "urgente",
+      "dataEntrega": "2025-08-01",
+      "completa": true
+    },
+    {
+      "id": 32,
+      "titulo": "Estudar Leis da Termodinâmica",
+      "descricao": "Ler os capítulos 18 e 19 do livro de Física.",
+      "disciplina": "Fundamentos Da Mecânica",
+      "categoria": "Estudo",
+      "prioridade": "media",
+      "dataEntrega": "2025-07-17",
+      "completa": true
+    },
+    {
+      "id": 33,
+      "titulo": "Reunião de Projeto em Grupo",
+      "descricao": "Alinhar as próximas entregas do projeto de Dev Web.",
+      "disciplina": "Desenvolvimento Web Frontend",
+      "categoria": "Trabalho",
+      "prioridade": "media",
+      "dataEntrega": "2025-07-19",
+      "completa": true
+    },
+    {
+      "id": 34,
+      "titulo": "Resenha de Documentário",
+      "descricao": "Escrever a resenha sobre 'O Dilema das Redes'.",
+      "disciplina": "Ciência, Tecnologia E Sociedade I",
+      "categoria": "Trabalho",
+      "prioridade": "baixa",
+      "dataEntrega": "2025-07-08",
+      "completa": true
+    },
+    {
+      "id": 35,
+      "titulo": "Prova de Álgebra Linear",
+      "descricao": "Revisar o conteúdo e fazer exercícios preparatórios.",
+      "disciplina": "Álgebra Linear",
+      "categoria": "Prova",
+      "prioridade": "urgente",
+      "dataEntrega": "2025-07-26",
+      "completa": true
+    },
+    {
+      "id": 36,
+      "titulo": "Exercícios de Matrizes",
+      "descricao": "Resolver a lista de exercícios sobre operações com matrizes.",
+      "disciplina": "Álgebra Matricial E Vetorial",
+      "categoria": "Estudo",
+      "prioridade": "media",
+      "dataEntrega": "2025-05-30",
+      "completa": true
+    },
+    {
+      "id": 37,
+      "titulo": "Planejar o TCC",
+      "descricao": "Definir o cronograma e os primeiros passos da pesquisa.",
+      "disciplina": "Metodologia Científica, Tecnológica E Empreendedora",
+      "categoria": "Projeto",
+      "prioridade": "alta",
+      "dataEntrega": "2025-07-07",
+      "completa": true
+    },
+    {
+      "id": 38,
+      "titulo": "Estudar Variáveis Aleatórias",
+      "descricao": "Ler o capítulo sobre variáveis aleatórias discretas e contínuas.",
+      "disciplina": "Probabilidade E Estatística",
+      "categoria": "Estudo",
+      "prioridade": "media",
+      "dataEntrega": "2025-07-27",
+      "completa": true
+    },
+    {
+      "id": 39,
+      "titulo": "Relatório de Modelagem",
+      "descricao": "Descrever os resultados obtidos com o modelo computacional.",
+      "disciplina": "Modelagem Do Mundo Físico I",
+      "categoria": "Relatório",
+      "prioridade": "media",
+      "dataEntrega": "2025-07-09",
+      "completa": true
+    },
+    {
+      "id": 40,
+      "titulo": "Apresentação sobre CTS II",
+      "descricao": "Preparar slides sobre os desafios éticos da biotecnologia.",
+      "disciplina": "Ciência, Tecnologia E Sociedade II",
+      "categoria": "Apresentação",
+      "prioridade": "alta",
+      "dataEntrega": "2025-08-28",
+      "completa": true
+    },
+    {
+      "id": 41,
+      "titulo": "Resumo de Química Orgânica",
+      "descricao": "Fazer um mapa mental dos principais grupos funcionais.",
+      "disciplina": "Química Geral",
+      "categoria": "Estudo",
+      "prioridade": "baixa",
+      "dataEntrega": "2025-07-13",
+      "completa": true
+    },
+    {
+      "id": 42,
+      "titulo": "Entregar Trabalho de Práticas de Leitura",
+      "descricao": "Entregar a tradução comentada do texto técnico.",
+      "disciplina": "Práticas De Leitura E Escrita I",
+      "categoria": "Trabalho",
+      "prioridade": "media",
+      "dataEntrega": "2025-06-05",
+      "completa": true
+    },
+    {
+      "id": 43,
+      "titulo": "Revisar para Prova de LP",
+      "descricao": "Fazer os exercícios do final do capítulo sobre structs e unions.",
+      "disciplina": "Linguagem De Programação",
+      "categoria": "Estudo",
+      "prioridade": "alta",
+      "dataEntrega": "2025-07-20",
+      "completa": true
+    },
+    {
+      "id": 44,
+      "titulo": "Análise de Sistema Físico",
+      "descricao": "Analisar o movimento de um pêndulo simples.",
+      "disciplina": "Fundamentos Da Mecânica",
+      "categoria": "Estudo",
+      "prioridade": "media",
+      "dataEntrega": "2025-07-17",
+      "completa": true
+    },
+    {
+      "id": 45,
+      "titulo": "Implementar Roteamento no App",
+      "descricao": "Usar React Router para criar as rotas da aplicação.",
+      "disciplina": "Desenvolvimento Web Frontend",
+      "categoria": "Trabalho",
+      "prioridade": "alta",
+      "dataEntrega": "2025-07-14",
+      "completa": true
+    },
+    {
+      "id": 46,
+      "titulo": "Prova de Cálculo II",
+      "descricao": "Estudar sequências e séries para a prova.",
+      "disciplina": "Cálculo Diferencial E Integral II",
+      "categoria": "Prova",
+      "prioridade": "urgente",
+      "dataEntrega": "2025-07-09",
+      "completa": true
+    },
+    {
+      "id": 47,
+      "titulo": "Estudo de Caso sobre Inovação",
+      "descricao": "Ler e analisar o estudo de caso sobre a empresa Netflix.",
+      "disciplina": "Gestão E Economia Da Ciência, Tecnologia E Inovação",
+      "categoria": "Estudo",
+      "prioridade": "media",
+      "dataEntrega": "2025-07-02",
+      "completa": true
+    },
+    {
+      "id": 48,
+      "titulo": "Trabalho de Modelagem Física II",
+      "descricao": "Apresentar o modelo de simulação de um circuito RLC.",
+      "disciplina": "Modelagem Do Mundo Físico II",
+      "categoria": "Trabalho",
+      "prioridade": "alta",
+      "dataEntrega": "2025-07-09",
+      "completa": true
+    },
+    {
+      "id": 49,
+      "titulo": "Leitura complementar de PLE II",
+      "descricao": "Ler os contos indicados pela professora.",
+      "disciplina": "Práticas De Leitura E Escrita II",
+      "categoria": "Estudo",
+      "prioridade": "baixa",
+      "dataEntrega": "2025-06-28",
+      "completa": true
+    },
+    {
+      "id": 50,
+      "titulo": "Entregar Resumo de ICT",
+      "descricao": "Resumo do filme 'Matrix' e sua relação com a disciplina.",
+      "disciplina": "Introdução Às Ciências E Tecnologia",
+      "categoria": "Trabalho",
+      "prioridade": "media",
+      "dataEntrega": "2025-07-15",
+      "completa": true
+    },
+    {
+      "titulo": "Leitura de Artigo",
+      "descricao": "Leitura e fichamento sobre o artigo lido.",
+      "disciplina": "Ambiente E Desenvolvimento",
+      "categoria": "Trabalho",
+      "prioridade": "baixa",
+      "dataEntrega": "2025-07-14",
+      "completa": true,
+      "id": 51
+    }
+  ],
+  "disciplinas": [
+    {
+      "id": 1,
+      "nome": "Matemática Básica E Modelagem",
+      "semestre": 1
+    },
+    {
+      "id": 2,
+      "nome": "Álgebra Matricial E Vetorial",
+      "semestre": 1
+    },
+    {
+      "id": 3,
+      "nome": "Metodologia Científica, Tecnológica E Empreendedora",
+      "semestre": 1
+    },
+    {
+      "id": 4,
+      "nome": "Lógica De Programação",
+      "semestre": 1
+    },
+    {
+      "id": 5,
+      "nome": "Práticas De Leitura E Escrita I",
+      "semestre": 1
+    },
+    {
+      "id": 6,
+      "nome": "Ciência, Tecnologia E Sociedade I",
+      "semestre": 1
+    },
+    {
+      "id": 7,
+      "nome": "Introdução Às Ciências E Tecnologia",
+      "semestre": 1
+    },
+    {
+      "id": 8,
+      "nome": "Linguagem De Programação",
+      "semestre": 2
+    },
+    {
+      "id": 9,
+      "nome": "Álgebra Linear",
+      "semestre": 2
+    },
+    {
+      "id": 10,
+      "nome": "Ambiente E Desenvolvimento",
+      "semestre": 2
+    },
+    {
+      "id": 11,
+      "nome": "Modelagem Do Mundo Físico I",
+      "semestre": 2
+    },
+    {
+      "id": 12,
+      "nome": "Práticas De Leitura E Escrita II",
+      "semestre": 2
+    },
+    {
+      "id": 13,
+      "nome": "Química Geral",
+      "semestre": 2
+    },
+    {
+      "id": 14,
+      "nome": "Cálculo Diferencial E Integral I",
+      "semestre": 2
+    },
+    {
+      "id": 15,
+      "nome": "Química Geral Experimental",
+      "semestre": 3
+    },
+    {
+      "id": 16,
+      "nome": "Cálculo Diferencial E Integral II",
+      "semestre": 3
+    },
+    {
+      "id": 17,
+      "nome": "Gestão E Economia Da Ciência, Tecnologia E Inovação",
+      "semestre": 3
+    },
+    {
+      "id": 18,
+      "nome": "Fundamentos Da Mecânica",
+      "semestre": 3
+    },
+    {
+      "id": 19,
+      "nome": "Introdução À Mecânica Para Engenharias: Estática",
+      "semestre": 3
+    },
+    {
+      "id": 20,
+      "nome": "Ciência, Tecnologia E Sociedade II",
+      "semestre": 3
+    },
+    {
+      "id": 21,
+      "nome": "Modelagem Do Mundo Físico II",
+      "semestre": 4
+    },
+    {
+      "id": 22,
+      "nome": "Probabilidade E Estatística",
+      "semestre": 5
+    },
+    {
+      "id": 23,
+      "nome": "Práticas De Leitura Em Inglês",
+      "semestre": 6
+    },
+    {
+      "nome": "Desenvolvimento Web Frontend",
+      "semestre": 4,
+      "id": 24
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Misla Wislaine",
+      "email": "misla.wislaine.alves.710@ufrn.edu.br",
+      "senha": "12345678"
+    }
+  ]
+}
